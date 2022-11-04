@@ -1,2 +1,1 @@
-# dotnet-extension-methods
-Extension Methods (C#)
+# Extension Methods (C#)
